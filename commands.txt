@@ -16,3 +16,6 @@ git log --oneline
 git log --oneline --pretty
 git checkout -b dev
 git branch
+git add
+git push
+git commit -m "New command added at local"
