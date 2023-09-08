@@ -20,3 +20,4 @@ git add
 git push
 git commit -m "New command added at local"
 git add
+git commit -m "added my name"
